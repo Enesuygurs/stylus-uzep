@@ -1,6 +1,7 @@
 # UZEP.org Custom CSS for Stylus
 
-This project contains a custom CSS theme for the **uzep.org** website. By using this theme, you can make the site simpler, more functional, and user-friendly.
+- This repo contains a custom CSS theme for the **uzep.org** website. By using this theme, you can make the site simpler, more functional, and user-friendly.
+- This project aims to improve the user experience, facilitating more efficient study sessions.
 
 ## Before
 ![a](https://github.com/user-attachments/assets/5ed720d3-18d2-4852-8298-36eae599b681)
